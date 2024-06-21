@@ -29,15 +29,6 @@ We welcome contributions from the community. Please follow these steps to contri
 5. **Push your changes** to your fork.
 6. **Create a pull request** to the main repository.
 
-## Standards
-
-- Use [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) for commit messages. This enable releases and changelog generation.
-- Any component must be documented using [Storybook](https://storybook.js.org/)
-- Any component must be tested using [Jest](https://jestjs.io/) and [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
-- Any component must be typed using [TypeScript](https://www.typescriptlang.org/)
-- Any component must be styled using [SASS Modules](https://sass-lang.com/) with css modules. Always with name `styles.module.scss` _this is because the the types added to every folder_
-- Always use `CSS Vars` for this you must install recommended extensions
-
 ## Commits
 
 1. Create your feature branch
