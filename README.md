@@ -17,28 +17,6 @@ Biyuya is an organization dedicated to developing high-quality software solution
 
 ## Projects
 
-Here are some of the key projects within the Biyuya organization:
-
-### Project 1: Biyuya Web App
-
-A comprehensive web application providing various services to our users.
-
-- **Repository:** [biyuya-web-app](https://github.com/biyuya/biyuya-web-app)
-- **Description:** The main web platform for Biyuya services.
-
-### Project 2: Biyuya Mobile App
-
-A mobile application offering Biyuya services on-the-go.
-
-- **Repository:** [biyuya-mobile-app](https://github.com/biyuya/biyuya-mobile-app)
-- **Description:** Mobile client for accessing Biyuya services.
-
-### Project 3: Biyuya Design System
-
-A library of reusable components and styles to maintain consistency across Biyuya projects.
-
-- **Repository:** [biyuya-design-system](https://github.com/biyuya/biyuya-design-system)
-- **Description:** A design system for building Biyuya applications.
 
 ## Contribution Guidelines
 
